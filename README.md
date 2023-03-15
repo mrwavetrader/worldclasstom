@@ -2,8 +2,8 @@
 
 Nice to meet you!
 
-- 🔭 I’m currently working on expanding my skills and knowledge.
-- 🌱 I’m currently learning about JavaScript and API development. 
+- 🔭 I’m always expanding my skills and knowledge.
+- 🌱 I’m currently focusing on React.JS and API development. 
 - 👯 I’m looking to collaborate on AI-related projects.
 - ⚡ Fun fact: I've been on over 40 flights and have only landed at the airport about half the time.
 
